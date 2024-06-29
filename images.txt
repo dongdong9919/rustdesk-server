@@ -1,0 +1,3 @@
+stilleshan/frps:latest
+stilleshan/frpc:latest
+jxxghp/moviepilot:latest
